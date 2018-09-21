@@ -418,6 +418,7 @@ textarea {
   .slide__swither {
     right: 20vw;
     top: 9vh;
+    z-index: 5;
   }
 
   .first__slide-content {
